@@ -12,3 +12,13 @@
 - En çok mesaj atan kullanıcıların listesini dönen bir script yazın
 
 trigger, procedure, function kullanımları verilen örneklerde seçimsel olarak kullanılabilir.
+
+&nbsp;
+
+---
+
+&nbsp;
+
+<h3 align="center">Database Diagram</h3>
+
+![alt text](https://github.com/186-Teleperformans-Net-Bootcamp/hafta3-ozgurkurum/blob/main/socialDb.png)
